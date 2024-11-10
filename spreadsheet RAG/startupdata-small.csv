@@ -1,0 +1,924 @@
+city,name,founded_at,first_funding_at,last_funding_at,funding_rounds,funding_total_usd,category_code,status
+San Diego,Bandsintown,01-01-07,04-01-09,01-01-10,3,375000,music,acquired
+Los Gatos,TriCipher,01-01-00,2/14/2005,12/28/2009,4,40100000,enterprise,acquired
+San Diego,Plixi,3/18/2009,3/30/2010,3/30/2010,1,2600000,web,acquired
+Cupertino,Solidcore Systems,01-01-02,2/17/2005,4/25/2007,3,40000000,software,acquired
+San Francisco,Inhale Digital,08-01-10,08-01-10,04-01-12,2,1300000,games_video,closed
+Mountain View,Matisse Networks,01-01-02,7/18/2006,7/18/2006,1,7500000,network_hosting,closed
+Mountain View,RingCube Technologies,01-01-05,9/21/2006,3/18/2010,3,26000000,software,acquired
+San Rafael,ClairMail,01-01-04,8/24/2005,10-04-10,3,34100000,finance,acquired
+Williamstown,VoodooVox,01-01-02,08-02-05,02-08-13,3,9650000,mobile,acquired
+Palo Alto,Doostang,06-01-05,02-01-07,02-05-10,3,5750000,web,acquired
+Menlo Park,Zong,11/15/2000,07-01-05,4/26/2010,3,27500000,mobile,acquired
+Menlo Park,Center'd,01-01-06,02-01-07,05-03-11,5,10400000,web,closed
+Louisville,Resonant Vibes,01-01-04,11/25/2008,11/25/2008,1,350000,web,closed
+Brooklyn,drop.io,11/26/2007,12-03-07,05-03-10,3,9950000,education,acquired
+Denver,Stratavia,01-01-01,8/31/2005,12/29/2009,5,10700000,software,acquired
+Vienna,Invicta Networks,01-01-99,08-09-05,08-09-05,1,200000,public_relations,closed
+Los Altos,QSecure,01-01-03,08-02-05,10-05-09,5,49000000,security,closed
+Burlingame,MeeVee,07-01-00,02-01-05,09-01-07,4,25000000,games_video,acquired
+New York,SinglePlatform,01-01-10,9/29/2010,08-01-11,3,4575000,web,acquired
+Palo Alto,Bling Nation,01-01-07,07-02-09,10/30/2009,2,28000000,enterprise,closed
+Austin,Metreos Corporation,01-01-01,3/20/2003,10/14/2004,2,4355000,software,acquired
+Seattle,Hidden City Games,01-01-04,10/31/2007,10/31/2007,1,15000000,other,closed
+Palo Alto,Neopolitan Networks,01-01-02,6/28/2007,6/28/2007,1,3170000,web,closed
+San Francisco,Pixelpipe,01-01-08,01-01-07,4/25/2011,2,2300000,mobile,closed
+Boulder,EventVue,05-01-07,08-01-07,09-01-07,2,455000,public_relations,closed
+Chicago,BridgePort Networks,01-01-02,11-03-06,11-03-06,1,13000000,software,acquired
+Palo Alto,Scalent Systems,01-01-03,1/22/2007,1/22/2007,1,15000000,public_relations,acquired
+Berkeley,IQ Engines,06-01-08,6/25/2012,6/25/2012,1,3800000,photo_video,acquired
+Austin,"RetailMeNot, Inc.",05-01-07,11-01-09,11-10-11,5,299500000,web,acquired
+Santa Ana,Mophie,5/24/2005,08-01-06,08-01-06,1,1000000,hardware,acquired
+Moffett Field,Airship Ventures,01-01-07,05-09-08,03-01-09,2,10500000,other,closed
+Seattle,Lockdown Networks,01-01-01,2/25/2005,03-02-06,2,8600000,public_relations,acquired
+Durham,eMinor,10-01-06,08-01-06,10-07-08,2,5000000,software,closed
+San Francisco,Karma,01-01-11,01-01-11,11/14/2011,2,2304999,mobile,acquired
+Pittsburgh,Zipano,06-01-09,07-01-09,07-01-09,1,25000,security,closed
+New York,Entertainment Media Works,07-01-04,2/26/2007,2/26/2007,1,4000000,software,closed
+San Francisco,Elastra,01-01-07,8/15/2007,08-05-08,2,14600000,software,closed
+San Jose,RPO,01-01-05,1/24/2006,9/13/2010,3,44000000,hardware,closed
+San Francisco,Fotomoto,10-01-08,12-01-08,5/26/2011,3,1822922,ecommerce,acquired
+New York,Peer39,03-01-06,03-01-06,1/24/2012,7,29915001,advertising,acquired
+Atlanta,Vitrue,05-01-06,05-01-06,2/17/2011,4,33000000,enterprise,acquired
+Manchester,Trendslide,08-01-11,08-01-11,03-01-12,2,125000,mobile,acquired
+Menlo Park,PublicEarth,01-01-08,02-08-08,5/21/2010,2,4000000,travel,closed
+Seattle,Azaleos,05-11-04,11-06-07,11-06-07,1,10000000,enterprise,acquired
+Sunnyvale,Efficient Frontier,01-01-02,8/31/2006,8/31/2006,1,6000000,advertising,acquired
+Sunnyvale,NetDevices,01-01-03,8/16/2005,8/16/2005,1,25000000,software,acquired
+New York,Go Try It On,12-01-09,11-04-10,11/13/2012,3,3750000,fashion,acquired
+Cambridge,Performable,10/17/2009,1/15/2010,1/15/2010,1,3000000,software,acquired
+San Francisco,Appstores.com,5/24/2010,08-01-10,08-01-11,2,1155000,software,acquired
+San Mateo,Fortify Software,10-01-02,12/15/2005,12/15/2005,1,10000000,software,acquired
+South San Francisco,iCurrent,01-01-06,08-01-08,08-01-08,1,3000000,web,acquired
+Boston,AisleBuyer,01-01-09,11/23/2010,6/13/2011,2,11500000,mobile,acquired
+Austin,Indeed,11-01-04,08-01-05,08-01-05,1,5000000,web,acquired
+Waltham,Colubris Networks,01-01-00,03-08-05,10/23/2006,2,29000000,public_relations,acquired
+San Francisco,Mashery,05-01-06,01-01-07,7/23/2012,6,34700000,enterprise,acquired
+Palo Alto,Transparency Software,01-01-04,03-09-05,07-01-07,2,12050000,software,closed
+Palo Alto,Viewdle,01-01-06,03-01-08,10-05-10,3,12000000,analytics,acquired
+Aliso Viejo,Enclarity,02-01-05,03-10-09,03-10-09,1,5500000,consulting,acquired
+Sunnyvale,Virsto Software,07-01-07,6/26/2009,8/25/2011,3,24000000,software,acquired
+Kansas City,Handmark,07-01-00,09-12-05,09-07-06,2,10000000,mobile,acquired
+Wilmington,Viacor,12-01-99,09-12-02,11-10-10,3,19009671,biotech,closed
+San Francisco,Carbonetworks,01-01-05,07-01-08,07-01-08,1,5000000,cleantech,closed
+Kirkland,SchemaLogic,01-01-01,1/17/2005,4/20/2010,5,18914576,enterprise,acquired
+Tampa,Skyway Software,01-01-01,5/16/2007,5/16/2007,1,4000000,software,closed
+Boston,CardStar,12-01-08,3/30/2010,9/13/2011,3,2030882,software,acquired
+Alameda,Makani Power,01-01-06,8/23/2008,8/23/2008,1,5000000,cleantech,acquired
+Bothell,Myrio,12-01-99,01-01-01,01-01-01,1,20500000,software,closed
+Boulder,Intela,02-02-06,1/18/2010,08-09-12,2,13250000,advertising,acquired
+San Mateo,Sana Security,01-01-00,04-02-07,04-02-07,1,12000000,security,acquired
+San Francisco,Sportgenic,09-01-05,01-01-07,09-09-08,3,11489687,advertising,acquired
+San Francisco,Lolapps,01-01-08,09-05-08,09-05-08,1,4000000,web,acquired
+Sunnyvale,Behavio,06-12-12,06-01-12,06-01-12,1,355000,software,acquired
+Tampa,Infinity Box,01-01-06,01-01-06,04-01-06,2,118000,web,acquired
+San Francisco,adBrite,01-01-03,09-01-04,05-01-12,4,40400000,advertising,acquired
+Dallas,Texert,01-01-07,10/21/2008,10/21/2008,1,3000000,software,closed
+Fremont,Mendocino Software,01-01-03,09-12-05,01-01-07,2,19700000,software,closed
+Santa Clara,QuikCycle,01-01-98,03-01-07,03-12-07,2,17800000,software,closed
+San Francisco,Instagram,03-01-10,03-05-10,04-05-12,3,57500000,photo_video,acquired
+New York,Motionbox,01-01-06,09-01-06,1/14/2009,3,17200000,games_video,acquired
+Cambridge,AccelGolf,08-01-08,01-01-08,12-04-09,7,457282,mobile,closed
+San Francisco,MoPub,09-09-10,09-01-10,9/20/2012,4,18500000,mobile,acquired
+Princeton,DNP Green Technology,01-01-08,1/17/2010,1/17/2010,1,12000000,cleantech,closed
+Loveland,Abound Solar,01-01-07,07-06-10,12/15/2010,2,510000000,cleantech,closed
+Mountain View,Trovix,01-01-02,12-07-05,09-06-06,2,18250000,search,acquired
+New York,Thumbplay,09-01-04,10/30/2006,4/21/2010,4,41500019,music,acquired
+Kearneysville,Plethora Technology,01-01-00,06-09-05,06-09-05,1,1000000,software,closed
+Los Angeles,DailyStrength,04-01-06,5/18/2007,5/18/2007,1,5000000,web,acquired
+Canton,Danotek Motion Technologies,01-01-01,11/19/2008,8/30/2011,3,42700000,cleantech,closed
+Mountain View,Yub,01-01-13,11/19/2013,11/19/2013,1,12000000,ecommerce,closed
+Bellevue,SNAPin Software,01-01-03,07-11-05,02-07-06,2,22300000,software,acquired
+Santa Clara,Azuro,01-01-02,01-01-06,11/13/2009,2,10000000,semiconductor,acquired
+Washington,ARPU,05-01-05,07-01-06,12/29/2009,3,15564591,advertising,closed
+San Francisco,BookFresh,01-01-07,7/28/2009,7/28/2009,1,500000,web,acquired
+San Francisco,Singly,12/21/2010,02-01-11,4/23/2012,2,8950000,analytics,acquired
+New York,TxVia,01-01-06,10-01-07,10/26/2010,4,55350000,finance,acquired
+Mountain View,Blue Vector Systems,01-01-02,9/21/2005,9/21/2005,1,4000000,public_relations,closed
+Chicago,Open Kernel Labs,01-01-06,9/13/2007,07-06-12,5,10764323,software,acquired
+Somerset,Elanti Systems,01-01-07,5/29/2008,5/29/2008,1,5500000,software,closed
+San Francisco,Astrid,01-01-08,4/13/2012,4/13/2012,1,400000,social,acquired
+Berkeley,Nordic Windpower,01-01-07,10-02-07,01-05-10,3,54000000,cleantech,closed
+Alpharetta,Visiprise,01-01-85,10/17/2005,10/17/2005,1,32000000,software,closed
+Seattle,Hubspan,01-01-00,10/14/2005,10/14/2005,1,13000000,software,acquired
+Bellevue,iConclude,01-01-05,02-01-05,04-10-06,3,12500000,software,acquired
+San Jose,41st Parameter,01-01-04,05-08-06,04-11-12,4,38064570,security,acquired
+San Francisco,Aardvark,07-01-07,01-01-07,10-01-08,2,6000000,web,acquired
+Charlottesville,Hotelicopter,06-01-06,11/17/2008,3/31/2011,2,5000000,web,closed
+Dulles,Anystream,01-01-00,01-01-00,02-07-07,3,59000000,software,acquired
+Chicago,CakeStyle,08-01-11,8/13/2012,8/13/2012,1,1000000,web,closed
+San Francisco,Fluther,01-01-07,9/21/2009,9/21/2009,1,600000,web,acquired
+Bloomfield,Pocket Communications Northeast,01-01-06,11-01-08,2/20/2009,2,125000000,mobile,closed
+Santa Monica,Goodreads,1/15/2007,11-01-07,12-09-09,2,2750000,web,acquired
+Santa Clara,Woven Systems,01-01-03,12-01-05,9/25/2007,2,30000000,network_hosting,acquired
+Milpitas,Kolorific,01-01-03,01-05-07,01-05-07,1,7000000,semiconductor,closed
+Menlo Park,Krugle,01-01-06,5/31/2006,5/31/2006,1,6100000,search,acquired
+San Diego,Flud,10-01-10,4/13/2011,09-01-12,3,2100000,enterprise,closed
+San Francisco,Chomp,09-09-09,11-01-09,03-11-10,2,2565000,mobile,acquired
+Burlingame,Origen Therapeutics,01-01-97,10-03-07,10-03-07,1,2000000,biotech,closed
+Raleigh,Inlet Technologies,01-01-03,7/26/2005,09-08-08,3,22400000,network_hosting,acquired
+New York,ShopWiki,06-01-05,07-01-06,07-01-06,1,6250000,ecommerce,acquired
+New York,Fondu,02-01-10,11-01-11,11-01-11,1,575000,web,acquired
+Somerville,Loudcaster,08-01-09,08-01-09,03-01-10,2,53000,web,closed
+Redwood City,TwoFish,01-01-06,12-01-06,10-10-08,2,9500000,ecommerce,acquired
+Austin,Workstreamer,10-01-09,01-01-09,7/27/2010,2,3500000,enterprise,closed
+New York,Qwiki,10-01-09,07-10-10,3/31/2011,3,10500000,photo_video,acquired
+Fremont,Redwood Systems,01-01-08,10-03-08,5/30/2012,4,34250000,cleantech,acquired
+Waltham,Artisan Pharma,01-01-06,09-06-06,7/20/2010,5,85381111,biotech,acquired
+Timonium,Bill Me Later,01-01-00,03-01-06,12-01-07,3,100000000,web,acquired
+Pittsburgh,Bueda,01-04-09,01-01-08,07-01-10,2,125000,advertising,closed
+Reston,Defywire,01-01-03,4/26/2005,3/27/2007,2,10600000,mobile,closed
+Fremont,Silicon Clocks,01-01-04,06-02-06,06-08-09,3,26100000,semiconductor,acquired
+New York,TheMarkets,01-01-00,07-12-07,07-12-07,1,30000000,web,acquired
+Chicago,Netgamix Inc,9/24/2010,10/15/2011,07-01-12,3,132885,games_video,closed
+Santa Clara,Sentrigo,10-01-06,05-08-07,12/21/2010,3,9500000,software,acquired
+Palo Alto,Netli,01-01-00,2/13/2006,2/13/2006,1,18000000,network_hosting,acquired
+Cincinnati,Define My Style,02-01-10,12-02-11,12-02-11,1,690000,web,closed
+Atlanta,Firethorn,01-01-01,03-01-06,01-02-07,3,25131611,mobile,acquired
+San Jose,Wellcore,01-01-07,07-12-10,07-12-10,1,2000000,hardware,closed
+Cambridge,Taligen Therapeutics,01-01-04,08-01-05,8/23/2010,3,78750000,biotech,acquired
+San Mateo,Adap.tv,11-01-06,02-01-07,3/28/2011,5,48500000,advertising,acquired
+San Francisco,Current Media,01-01-05,7/29/2005,7/29/2005,1,15000000,network_hosting,closed
+Campbell,ParAccel,01-01-07,12-10-07,4/25/2012,5,74000000,analytics,acquired
+San Francisco,Arch Rock Corporation,01-01-05,10-01-05,05-02-07,2,15000000,software,acquired
+New York,SpiralFrog,01-01-04,01-01-06,12-01-07,3,45000000,games_video,closed
+Santa Clara,Plusmo,06-01-06,05-01-08,05-01-08,1,4410000,mobile,acquired
+Sterling,ZipList,01-01-10,01-01-10,11/24/2010,2,4500000,web,acquired
+San Francisco,Involver,01-01-07,09-02-08,10/14/2010,3,11040000,software,acquired
+San Francisco,Lionside,01-01-09,11/19/2010,11/19/2010,1,1600000,games_video,acquired
+New York,Game Trust,01-01-02,06-01-05,11/15/2005,2,9000000,software,acquired
+San Mateo,Nearbuy Systems,04-01-10,7/21/2011,11/23/2012,3,3282327,analytics,acquired
+Foster City,Visible Path,01-01-02,03-01-06,03-01-06,2,24700000,web,acquired
+Atlanta,VT Silicon,01-01-02,09-12-07,11/19/2008,2,8800000,semiconductor,closed
+Los Angeles,GetBack,09-01-07,11-06-08,11-06-08,1,1700000,web,closed
+Oakland,Slipstream,06-01-10,8/31/2010,8/31/2010,1,20000,web,closed
+Fremont,HipLogic,01-01-05,02-08-08,12-02-09,2,11500000,mobile,acquired
+Petaluma,Dilithium Networks,01-01-01,4/23/2003,06-03-10,7,98170000,mobile,closed
+San Francisco,Yobongo,01-01-10,3/23/2011,3/23/2011,1,1350000,web,acquired
+Chicago,Brickfish,11-01-05,7/16/2010,7/16/2010,1,940261,software,acquired
+Boston,MyEnergy,06-04-07,02-01-09,02-03-11,2,4000000,web,acquired
+Sunnyvale,LikeList,01-01-08,12/15/2009,12/15/2009,1,5000000,web,closed
+Arlington,Social Collective,4/17/2009,4/18/2009,4/18/2009,1,20000,web,closed
+Seattle,Pure Networks,01-01-02,01-11-06,01-11-06,1,12500000,network_hosting,acquired
+Centennial,Internet Pawn,01-01-09,05-05-10,8/27/2013,5,7228704,finance,closed
+Chicago,NeuroTherapeutics Pharma,01-01-06,5/20/2010,12/15/2011,2,55000000,biotech,closed
+San Mateo,Provade,01-01-04,1/23/2006,08-11-10,4,15180000,enterprise,acquired
+San Jose,Infineta Systems,01-01-08,05-07-10,06-06-11,2,30000000,software,closed
+Austin,Challenge Games,01-01-06,07-10-08,09-01-08,2,14500000,network_hosting,acquired
+San Francisco,Crowd Factory,01-01-09,1/26/2011,1/26/2011,1,6500000,advertising,acquired
+Memphis,Friendsignia,1/29/2012,1/29/2012,1/29/2012,1,15000,web,closed
+New York,Vizibility,07-01-09,3/24/2010,02-06-13,5,4705910,mobile,acquired
+Burlingame,OpenFeint,01-01-08,10/21/2010,10/21/2010,1,3000000,games_video,acquired
+New York,Tumblr,02-01-07,10/31/2007,01-01-12,6,125250000,web,acquired
+New York,Hotlist,01-01-08,05-01-08,01-01-12,4,1449998,social,closed
+Cambridge,Crashlytics,02-01-11,10/13/2011,04-10-12,2,6000000,mobile,acquired
+Plymouth,BridgePoint Medical,01-01-05,1/23/2007,3/25/2011,3,28200000,medical,acquired
+San Francisco,Recurve,08-01-05,9/23/2008,6/17/2010,2,14000000,software,acquired
+Austin,Conformity,07-01-07,1/28/2009,1/28/2009,1,3000000,enterprise,closed
+Seattle,Moprise,01-01-10,07-08-11,10-07-11,2,2238055,enterprise,closed
+San Francisco,Plizy,09-01-10,5/19/2011,12/13/2012,2,5200000,photo_video,closed
+Conshohocken,ShopRunner,01-01-10,8/19/2013,8/19/2013,1,75000000,ecommerce,acquired
+Needham,RatePoint,09-01-06,1/29/2007,8/20/2010,4,24500000,software,closed
+Newport Beach,Digital Performance,01-01-02,11/27/2006,02-05-10,3,4476171,advertising,closed
+Austin,Gowalla,8/28/2007,2/27/2008,1/28/2010,3,10400001,web,acquired
+Longmont,Copan Systems,01-01-02,03-08-06,2/17/2009,3,68400000,network_hosting,acquired
+Redwood City,Replay Solutions,01-01-04,12-05-06,8/18/2008,2,15200000,software,acquired
+New York,Turf Geography Club,01-01-11,8/15/2011,08-02-12,2,890000,mobile,closed
+San Francisco,skyrockit,01-01-01,07-12-11,07-12-11,1,2600000,mobile,closed
+Naperville,Cartavi,01-01-09,11/13/2012,11/13/2012,1,1226270,enterprise,acquired
+Pasadena,Cramster,01-01-02,9/25/2008,4/14/2010,2,9000000,web,acquired
+San Jose,Certify Data Systems,01-01-04,8/25/2008,2/15/2012,4,7210210,enterprise,acquired
+San Francisco,Wheelz,01-01-11,9/28/2011,2/22/2012,2,15700000,automotive,acquired
+Waltham,CentrePath,01-01-00,09-06-05,4/24/2006,2,15050000,software,acquired
+San Francisco,VoxPop Network Corporation,08-01-06,05-01-07,05-01-09,2,3500000,games_video,acquired
+Milpitas,OpVista,01-01-00,6/22/2006,05-07-07,2,43000000,software,closed
+San Francisco,Metaweb Technologies,01-01-05,03-01-06,1/15/2008,2,57000000,web,acquired
+San Francisco,DocVerse,09-01-07,7/23/2008,7/23/2008,1,1300000,web,acquired
+San Diego,Veoh,01-01-04,07-01-05,06-03-08,4,69750000,games_video,acquired
+Boston,BzzAgent,01-01-01,01-01-04,01-01-06,2,14500000,advertising,acquired
+Mountain View,Hammerhead Systems,01-01-02,1/31/2006,08-01-07,2,48000000,hardware,closed
+Pittsburgh,ThermalTherapeuticSystems,06-01-06,12-01-09,11-09-11,2,3508462,medical,closed
+San Mateo,GuardianEdge Technologies,01-01-02,06-06-05,7/23/2007,3,19500000,software,acquired
+Santa Monica,Gradient X,01-01-12,6/20/2012,6/20/2012,1,3750000,mobile,acquired
+Warrenville,ezzai - how to arabia,08-01-10,08-01-10,08-01-10,1,45000000,web,closed
+Raleigh,rPath,04-01-05,1/24/2006,10/22/2010,4,32500000,enterprise,closed
+Berwyn,Boomi,03-01-00,01-01-02,07-01-08,2,4900000,enterprise,acquired
+Sunnyvale,VoloMedia,01-01-05,4/20/2007,3/18/2008,2,12000000,advertising,closed
+San Francisco,Flixster,1/20/2006,02-01-06,04-04-08,3,7175000,web,acquired
+San Francisco,Wesabe,12-01-05,02-01-07,06-01-07,2,4700000,web,closed
+Morgan Hill,OfferLounge,01-01-08,01-01-08,01-01-08,1,120000,public_relations,closed
+Mountain View,NeoEdge Networks,05-02-02,06-08-07,12/20/2010,3,10000000,advertising,acquired
+Austin,SemiSouth Laboratories,07-01-00,6/14/2005,10/22/2010,4,39000000,semiconductor,closed
+Marlborough,Camiant,01-01-03,3/29/2005,01-11-07,2,16100000,software,acquired
+San Francisco,NuConomy,01-01-06,04-01-07,02-01-08,2,3300000,advertising,acquired
+San Francisco,Flowtown,02-01-09,8/25/2010,8/25/2010,1,750000,analytics,acquired
+Atlanta,GlobalCrypto,06-01-06,11-11-08,11-11-08,2,1000000,software,closed
+New York,Bioenvision,01-01-96,4/30/2007,4/30/2007,1,7410000,biotech,closed
+San Jose,Teranetics,01-01-00,11/21/2006,5/27/2010,3,52800000,semiconductor,acquired
+Playa Vista,WebVisible,01-01-01,09-01-05,02-11-10,3,37000000,software,closed
+San Francisco,GoodGuide,12-01-07,1/19/2009,8/26/2011,3,14229998,web,acquired
+Cupertino,ViVu,01-01-09,9/21/2009,06-09-11,2,3000000,messaging,acquired
+New York,avVenta,01-01-05,1/14/2009,1/14/2009,1,20000000,advertising,acquired
+Providence,DiJiPOP,11-01-08,08-01-09,12-06-10,2,2000000,advertising,acquired
+Washington,Layer 7 Technologies,01-01-03,10/26/2006,02-02-09,2,19900000,software,acquired
+San Francisco,DeliveryEdge,09-01-06,12-01-07,12-01-07,1,1500000,ecommerce,closed
+San Francisco,Solmentum,07-01-09,07-01-09,07-01-09,1,325000,cleantech,closed
+San Francisco,Pipewise,09-01-10,2/17/2011,2/17/2011,1,3500000,enterprise,closed
+Seattle,GridNetworks,01-01-04,01-01-06,5/20/2008,4,30000000,network_hosting,closed
+Mountain View,MAP Pharmaceuticals,01-01-03,3/28/2007,3/28/2007,1,50000000,biotech,acquired
+New York,"ORCA, Inc.",01-01-08,6/21/2009,6/21/2009,1,2000000,ecommerce,acquired
+Redwood City,Amobee,05-01-05,11-01-06,03-01-11,6,72000000,advertising,acquired
+Monterey Park,KOTURA,01-01-04,09-07-05,11-05-09,3,27690547,cleantech,acquired
+Plano,Auvitek International,03-01-04,05-09-06,05-09-06,1,9000000,semiconductor,closed
+Mountain View,Outright,06-01-08,11-01-08,11/18/2009,2,7500000,enterprise,acquired
+Austin,Phurnace Software,01-01-07,09-11-07,07-01-08,2,10000000,software,acquired
+Pasadena,FastSoft,01-01-06,06-11-07,09-04-12,4,5965000,software,acquired
+Fremont,GrandCentral,04-01-06,01-01-06,01-01-06,1,4000000,mobile,acquired
+Bingham Farms,Speedshape,01-01-03,2/20/2008,2/20/2008,1,5000000,advertising,closed
+San Jose,BlueLithium,01-01-04,02-01-05,02-01-05,1,11500000,advertising,acquired
+Chicago,Media Chaperone,01-01-09,1/14/2010,2/24/2011,2,1050000,web,closed
+New York,Giant Realm,01-01-07,03-01-08,05-08-08,2,5500000,web,acquired
+Philadelphia,Invite Media,02-01-07,12-01-07,12-01-09,3,5000000,advertising,acquired
+Mountain View,UpMo,01-01-11,12/13/2009,8/17/2011,2,3700000,enterprise,closed
+Freedom,Appscio,01-01-06,3/20/2007,01-03-09,2,7000000,software,closed
+Boston,Eons,01-01-05,04-01-06,03-01-07,2,32000000,network_hosting,closed
+Cambridge,LocaModa,01-01-07,9/18/2007,3/25/2011,3,7900000,advertising,acquired
+San Francisco,Meraki,04-01-06,12-01-06,07-10-12,5,80000000,network_hosting,acquired
+Austin,MPOWER Mobile,01-01-05,10/28/2009,10/28/2009,1,5000000,mobile,closed
+Seattle,Haute Secure,01-01-06,01-01-07,03-09-09,2,2100000,security,acquired
+Bethesda,Intelliworks,12-01-04,2/14/2005,4/24/2009,4,22250000,enterprise,acquired
+Portland,Meridian,03-01-11,9/14/2011,8/30/2012,2,1975000,enterprise,acquired
+New York,Kluster,01-01-08,01-01-08,01-01-08,1,1000000,web,acquired
+Allentown,International Battery,01-01-08,05-06-10,05-06-10,1,35000000,cleantech,closed
+New York,Jingle Networks,09-01-05,10-01-05,12/28/2009,7,88651133,mobile,acquired
+North Billerica,SemEquip,01-01-00,08-04-05,08-04-05,1,26000000,semiconductor,acquired
+Los Angeles,ItsGoinOn,05-01-10,01-01-11,01-01-11,1,100000,games_video,closed
+Denver,mSnap,06-01-05,06-01-06,06-01-06,1,5000000,mobile,acquired
+Duluth,Biofisica,01-01-00,10/31/2006,4/21/2008,2,7300000,biotech,closed
+Mountain View,Ardian,01-01-03,01-01-05,3/23/2009,3,64080000,biotech,acquired
+Providence,Tracelytics,07-01-10,11-03-11,3/22/2012,2,5800000,enterprise,acquired
+San Francisco,Canopy Financial,01-01-04,01-01-08,10-01-09,4,89500000,finance,closed
+San Francisco,Kyte,12-01-06,07-01-07,03-01-12,4,23350000,games_video,acquired
+Waltham,Ounce Labs,10-01-02,06-08-06,9/16/2008,2,13500000,software,acquired
+Boxborough,Crossbeam Systems,01-01-00,05-08-07,2/14/2008,2,24500000,security,acquired
+Redwood City,PacketHop,01-01-02,08-08-05,08-08-05,1,10000000,public_relations,closed
+Salt Lake City,Inaura,01-01-07,01-06-05,01-06-05,1,8500000,other,closed
+The Woodlands,DynaPump,01-01-92,5/29/2008,5/29/2008,1,6000000,cleantech,closed
+Palo Alto,Immunet Corporation,07-01-08,11-01-09,11-01-09,1,2000000,software,acquired
+Austin,CopperEgg Corporation,06-01-10,07-12-11,05-08-12,2,4100000,enterprise,acquired
+Mountain View,Wink,8/19/2004,01-01-05,01-01-05,1,6200000,search,acquired
+San Francisco,PopularMedia,01-01-03,02-01-07,7/28/2008,2,12250000,advertising,acquired
+San Francisco,Miyowa,4/14/2003,09-04-06,05-08-08,2,11725600,mobile,acquired
+Burlington,Intrusic,01-01-01,4/25/2005,10/30/2006,2,16000000,software,closed
+Seattle,Dashwire,08-11-06,1/31/2009,12/28/2010,3,5056559,mobile,acquired
+San Francisco,Reddit,01-01-05,06-01-05,06-01-05,1,100000,web,acquired
+San Francisco,Pure Digital Technologies,09-01-01,01-01-04,8/18/2008,3,68200000,hardware,acquired
+Alameda,Voxify,01-01-01,02-01-05,4/21/2010,3,33000000,enterprise,acquired
+Durham,EvoApp,01-01-09,10/15/2010,4/20/2012,3,3352194,analytics,closed
+New York,Visual Revenue,03-01-10,7/28/2011,1/26/2012,2,2212000,analytics,acquired
+Redwood City,Calibra Medical,01-01-04,11/24/2009,4/15/2011,4,19800000,biotech,acquired
+San Mateo,Offermatic,02-01-10,12-01-10,03-09-11,2,4500000,web,closed
+Needham,HiWired,01-01-04,01-01-08,01-02-08,2,14000000,software,acquired
+Weston,DateMyFamily.com,11-11-11,12-01-11,12-01-11,1,100000,social,closed
+Palo Alto,Hyperic,01-01-04,05-10-06,06-05-07,2,9900000,software,acquired
+San Francisco,Optimal,01-01-08,01-01-08,1/22/2013,3,7600000,advertising,acquired
+Santa Barbara,SendMeHome.com,07-01-08,07-01-08,07-01-08,1,50000,games_video,closed
+Palo Alto,Q-magic,02-01-07,01-01-07,01-01-07,1,650000,public_relations,closed
+Los Angeles,Geodelic Systems,01-01-08,12-01-08,9/23/2010,3,10500000,mobile,closed
+Santa Monica,BlockBeacon,01-01-12,6/21/2012,6/21/2012,1,500000,web,acquired
+Mountain View,PostPath,01-01-03,12-07-04,1/16/2007,2,24300000,web,acquired
+Santa Clara,Attune Systems,01-01-99,6/27/2006,11/14/2006,2,18000000,hardware,closed
+San Francisco,TokBox,05-01-07,12/26/2007,11/15/2010,3,26000000,messaging,acquired
+Mountain View,Avega Systems,01-01-05,04-01-07,1/13/2010,2,9500000,hardware,closed
+Columbia,Heartscape,01-01-00,4/24/2007,4/24/2007,1,16980999,biotech,acquired
+Mountain View,PeerMe,01-01-04,01-01-05,01-01-05,1,5000000,games_video,closed
+SPOKANE,Pacinian,04-01-07,12-01-08,12-01-08,1,350000,hardware,closed
+Burlington,neoSaej,01-01-06,3/29/2007,12/21/2010,5,13130000,web,closed
+Seattle,Kiha Software,01-01-08,10/28/2010,10/28/2010,1,20000000,software,closed
+Cambridge,Vlingo,06-01-06,12-01-06,9/16/2009,3,26500000,mobile,acquired
+Maynard,Tizor Systems,01-01-02,09-12-05,02-07-06,2,15000000,enterprise,acquired
+Frederick,Cerona Networks,01-01-02,4/21/2006,4/21/2006,1,2600000,public_relations,closed
+Fremont,Oorja Protonics,01-01-04,5/25/2006,01-11-10,4,21470000,cleantech,closed
+Austin,Hurricane Party,05-01-10,05-01-10,05-01-10,1,20000,mobile,closed
+Sunnyvale,Minekey,01-01-05,12-01-06,08-01-07,2,3600000,web,closed
+New York,Blip,05-01-05,03-01-06,7/30/2012,7,27300000,games_video,acquired
+San Francisco,Fabkids,01-01-12,08-02-12,08-02-12,1,2600000,ecommerce,acquired
+Palo Alto,CafeBots,01-01-10,10/21/2010,10/21/2010,1,5000000,web,closed
+San Diego,Avaak,01-01-04,10-03-08,3/22/2010,2,17000000,mobile,acquired
+West Newfield,Newfield Design,01-01-08,5/14/2012,5/14/2012,1,662000,manufacturing,closed
+New York,Savored,01-01-10,01-01-10,01-10-11,2,3750000,hospitality,acquired
+San Francisco,Digg,10-11-04,10-01-05,07-12-11,4,45000000,news,acquired
+Long Island City,Songza,11-01-07,9/19/2011,09-10-13,2,6700000,music,acquired
+Redwood City,Bigfoot Networks,01-01-06,03-06-06,11/17/2009,3,20750000,hardware,acquired
+San Francisco,Kongregate,01-01-06,03-01-07,07-02-13,4,19000000,games_video,acquired
+San Francisco,Powerset,10-01-06,05-01-06,06-01-07,3,22500000,search,acquired
+San Francisco,Kiptronic,05-01-05,11-01-05,06-05-08,3,7300000,advertising,acquired
+Seattle,Cozi Group,03-03-05,12-01-05,12/27/2012,7,26390819,web,closed
+Bellevue,Likewise Software,11-01-04,4/30/2009,4/30/2009,1,10000000,software,acquired
+NY,Lifestander,09-01-10,10-02-10,10-02-10,1,31000,web,closed
+Menlo Park,Jaxtr,10-01-05,07-01-07,6/23/2008,3,21500000,mobile,acquired
+Englewood,MX Logic,01-01-02,11-07-06,11-07-06,1,4000000,security,acquired
+Solana Beach,Metaplace,07-01-06,01-01-07,3/15/2010,3,9400000,games_video,acquired
+New York,TravelMuse,4/16/2007,05-01-07,06-01-09,3,5600000,web,acquired
+San Francisco,Jambool,08-01-06,08-01-08,8/17/2009,2,6000000,finance,acquired
+NW Atlanta,Zipcar,10/31/2000,12/20/2002,12/15/2010,4,60704370,transportation,acquired
+San Francisco,Hitpost,04-01-09,01-01-10,4/26/2012,3,2000000,sports,acquired
+San Francisco,Home-Account,11-01-08,4/16/2009,7/16/2009,2,1000000,finance,acquired
+Bala Cynwyd,PayParade Pictures,10/17/2007,12-01-08,3/13/2009,2,200000,games_video,closed
+San Bruno,Planet Metrics,01-01-07,11-12-08,11-12-08,1,2300000,cleantech,closed
+San Francisco,kwiry,01-01-06,3/20/2008,3/20/2008,1,1000000,mobile,closed
+San Francisco,imeem,11-01-03,09-01-04,08-01-09,5,24750000,music,acquired
+Evanston,Amadesa,5/15/2005,12-03-07,10-05-11,2,12800000,software,closed
+Mountain View,Cast Iron Systems,01-01-01,3/28/2005,7/29/2007,2,30500000,enterprise,acquired
+Carlsbad,Aptera,01-01-03,7/25/2008,7/13/2011,3,36300000,automotive,closed
+San Francisco,RentJuice,01-01-08,03-04-10,1/31/2011,3,6693782,real_estate,acquired
+San Diego,Verari Systems,01-01-96,06-05-07,06-05-07,1,20000000,hardware,closed
+Cupertino,Parascale,01-01-05,6/23/2008,6/23/2008,1,11370000,network_hosting,acquired
+West Hollywood,Geni,06-01-06,01-01-07,1/19/2009,3,16500000,web,acquired
+San Franciso,Zentact,09-01-08,09-01-08,09-01-08,1,250000,network_hosting,closed
+New York,Outside.in,08-01-06,02-01-07,12-08-09,5,14400000,web,acquired
+New York,Salesforce Buddy Media,09-01-07,09-01-07,8/15/2011,5,90000000,enterprise,acquired
+San Francisco,Vizu Corporation,2/14/2005,2/20/2006,04-09-12,4,13075000,advertising,acquired
+Mountain View,Zing Systems,06-01-07,12-01-06,01-01-07,2,26000000,games_video,acquired
+Burlington,DynamicOps,01-01-08,2/28/2011,09-09-11,2,16300000,enterprise,acquired
+Austin,Movero Technology,01-01-03,6/14/2007,3/23/2010,2,5992316,enterprise,acquired
+San Diego,Elevation Pharmaceuticals,01-01-07,1/21/2010,01-04-12,4,89400001,biotech,acquired
+Palo Alto,Punch Entertainment,05-10-05,2/27/2006,2/27/2006,1,1200000,software,closed
+New York,Stickybits,01-01-09,03-09-10,5/19/2010,2,1900000,web,closed
+San Francisco,Ecast,01-01-99,05-07-08,5/26/2011,3,30300000,games_video,closed
+New York,lifeIO,8/29/2006,8/29/2008,8/29/2008,1,500000,web,closed
+Santa Monica,EdgeCast Networks,08-01-06,08-01-06,7/18/2013,5,74000000,network_hosting,acquired
+Richardson,Sirific Wireless,01-01-00,02-12-07,02-12-07,1,18800000,semiconductor,acquired
+Zeeland,Revetto,01-01-09,05-01-09,05-01-09,1,20000,web,closed
+Herndon,ZoomSafer,01-01-09,03-01-09,03-07-11,4,3350000,mobile,acquired
+Paramus,AkaRx,01-01-05,01-07-10,01-07-10,1,26100000,biotech,acquired
+Pittsburgh,Lama Lab,01-01-09,5/31/2010,07-08-11,2,1213066,enterprise,closed
+Palo Alto,Buysight,01-01-08,11-04-08,3/21/2012,3,24030000,advertising,acquired
+San Francisco,TripIt,10-01-06,04-01-07,03-04-10,3,13100000,travel,acquired
+New York,Pinch Media,04-01-08,05-01-08,01-06-10,3,560001,software,acquired
+Minneapolis,Enstratius,01-01-09,11-07-11,11-07-11,1,3500000,enterprise,acquired
+Boston,Jumptap,01-01-05,03-01-05,07-02-12,7,121500000,mobile,acquired
+San Jose,WiChorus,01-01-05,12/22/2005,11-04-08,4,42500000,mobile,acquired
+Durham,Hatteras Networks,01-01-00,06-08-05,06-01-06,2,36000000,software,acquired
+San Francisco,Focus,08-01-05,03-06-08,03-06-08,1,12170000,enterprise,closed
+New York,easy2comply (Dynasec),01-01-02,10-02-07,10-02-07,1,1000000,software,acquired
+San Francisco,Socialize,07-01-08,11-01-11,06-07-12,3,1820000,mobile,acquired
+Kirkland,Clearwire,10-01-03,05-06-08,2/27/2013,4,5700000000,mobile,acquired
+Addison,CREDANT Technologies,01-01-01,12/20/2007,12/20/2007,1,5000000,security,acquired
+New York,Exclusively.in,01-01-10,11-03-10,5/29/2011,2,18800000,fashion,acquired
+Mountain View,Avidia,01-01-03,05-06-05,05-09-06,2,72300000,advertising,acquired
+Irvine,PayDivvy,03-06-09,1/15/2009,4/27/2012,3,1310000,social,acquired
+Woburn,Octavian,01-01-03,06-01-05,10-10-07,2,15000000,software,closed
+New York,KickApps,03-01-04,06-01-06,11/25/2008,3,39007789,enterprise,acquired
+Burlington,Airwide Solutions,01-01-04,1/25/2006,1/25/2006,1,25000000,software,acquired
+Boston,Localocracy,01-01-09,05-01-09,02-04-11,3,172500,web,acquired
+New York City,Pixable,03-12-09,11-10-10,4/22/2011,2,6100000,social,acquired
+Larkspur,mFoundry,01-01-04,3/21/2006,12-05-11,3,40300000,mobile,acquired
+Los Angeles,Bevvy,01-08-11,5/20/2011,5/20/2011,1,100000,ecommerce,closed
+Seattle,Livemocha,09-01-07,01-01-08,2/25/2013,5,19389998,education,acquired
+San Bruno,IronPort Systems,01-01-00,6/25/2002,10/25/2004,2,61500000,hardware,acquired
+San Francisco,Crowdcast,01-01-07,06-10-10,06-10-10,1,6000000,software,acquired
+Boston,Where,01-01-04,12/31/2003,01-01-09,4,19100000,mobile,acquired
+New York,Pictela,10/17/2008,01-06-09,11-06-10,4,3499997,advertising,acquired
+Redwood City,Grouply,03-01-06,06-01-07,1/14/2008,3,2600000,network_hosting,acquired
+San Francisco,Storify,12-11-09,07-01-09,02-03-11,3,2023000,web,acquired
+Irvine,Axiom Microdevices,01-01-02,02-08-07,02-08-07,1,25000000,semiconductor,acquired
+Santa Monica,ShoeDazzle,03-01-09,11/19/2009,10-03-12,4,66000000,fashion,acquired
+New York,LiftDNA,09-01-09,02-01-11,02-11-11,2,1000000,advertising,acquired
+Palo Alto,Onavo,01-01-10,05-01-11,1/24/2012,2,13000000,mobile,acquired
+Waltham,Pyxis Mobile,01-01-98,09-09-05,01-10-12,3,24150000,software,closed
+Santa Clara,Link_A_Media Devices,01-01-04,11-02-09,3/20/2012,3,47218498,semiconductor,closed
+Waltham,Guardium,01-01-02,08-12-05,5/17/2006,2,11800000,search,acquired
+Henderson,Trooval,09-01-08,04-07-10,11-05-10,2,2387481,analytics,closed
+Boston,Compete,01-01-00,11-01-00,08-01-07,4,33000000,consulting,acquired
+McLean,Rollstream,01-01-05,09-03-07,11/18/2008,2,7500000,software,acquired
+San Jose,NeoGuide Systems,01-01-00,9/29/2006,9/29/2006,1,25000000,biotech,acquired
+Santa Clara,Accept Software,01-01-02,9/16/2005,12/14/2010,4,25305000,software,acquired
+Palo Alto,Milo,01-01-08,11-01-08,11/24/2009,2,4950000,web,acquired
+Santa Clara,Mimosa Systems,8/29/2003,12-05-05,01-12-10,6,53816776,software,acquired
+New York,Surphace,06-01-05,04-01-05,05-01-06,2,3500000,web,acquired
+Mountain View,Cloudmeter,04-01-07,4/27/2012,4/27/2012,1,5000000,enterprise,acquired
+Burlingame,Zecter,06-01-07,06-01-07,12/14/2009,3,2515000,network_hosting,acquired
+Lowell,Dimdim,01-01-06,02-01-07,07-01-08,2,8400000,web,acquired
+Santa Monica,TeleFlip,01-01-04,08-01-06,01-01-08,2,4900000,mobile,closed
+Bellevue,MessageGate,01-01-01,4/18/2005,4/18/2005,1,5000000,software,closed
+Woodbury,Cloverleaf Communications,01-01-01,6/28/2005,6/28/2005,1,11000000,public_relations,acquired
+Santa Clara,SkyPilot Networks,01-01-00,01-01-01,04-01-08,4,68400000,mobile,acquired
+San Francisco,Zencoder,01-01-07,02-01-10,04-12-11,2,2000000,software,acquired
+New York,Storm Exchange,04-01-06,12-01-06,03-04-08,2,10800000,enterprise,closed
+New York,The Huffington Post,05-09-05,05-01-05,08-01-10,5,37000000,news,acquired
+Mountain View,Exaprotect,01-01-04,07-10-06,07-10-06,1,7660000,security,acquired
+Littleton,Akorri Networks,01-01-05,05-05-05,3/23/2010,4,48730000,software,acquired
+Los Angeles,Giiv,01-01-09,01-01-09,06-01-10,2,3350000,messaging,closed
+Glendale,MyShape,09-01-03,7/17/2007,11-10-10,4,28000000,ecommerce,closed
+Austin,BlackLocus,01-01-10,07-01-11,07-01-11,1,2500000,analytics,acquired
+Chicago,FeedBurner,02-01-04,06-01-04,04-01-05,2,8000000,web,acquired
+New York,DailyBurn,10-01-07,05-01-08,5/26/2009,2,540000,web,acquired
+San Francisco,CastTV,01-01-06,01-01-06,04-01-07,2,3100000,games_video,acquired
+New York,Venmo,04-04-09,05-07-10,08-01-11,2,1200000,mobile,acquired
+New York,WeShow,06-01-07,06-01-07,06-01-07,1,5000000,games_video,closed
+San Francisco,SenSage,8/18/2004,4/18/2005,01-01-12,6,37079000,security,acquired
+Billerica,Luminus Devices,01-01-02,05-01-06,03-01-13,4,135826373,other,acquired
+San Diego,Tapioca Mobile,01-01-08,09-01-07,3/25/2008,2,5000000,mobile,closed
+New York,BestVendor,01-01-11,3/18/2011,02-01-12,4,4200000,software,acquired
+Seattle,Local Marketers,01-01-05,7/31/2008,7/31/2008,1,4100000,web,closed
+Los Gatos,Eyeona,01-01-11,10-10-11,10-10-11,1,2000000,web,closed
+Broomfield,ColdSpark,01-01-01,01-01-06,01-01-06,1,6500000,software,acquired
+Foster City,Etology,06-01-05,11/13/2006,11/13/2006,1,4000000,web,closed
+Mountain View,Wander (f. YongoPal),01-01-10,04-01-10,01-01-11,5,185000,mobile,closed
+Portland,CrowdCompass,04-01-09,12-11-11,12-11-11,1,1300000,mobile,acquired
+New York,Right Media,01-01-03,10/17/2006,10/17/2006,1,45000000,advertising,acquired
+Boston,Goby,07-01-08,10/20/2010,10/20/2010,1,2500000,search,acquired
+Austin,FiveRuns,02-01-05,09-01-05,10/28/2007,2,9200000,web,acquired
+Beverly Hills,GeekStatus,08-01-10,02-10-09,06-12-10,4,435953,web,closed
+Hartford,MOLI,01-01-08,01-01-07,01-01-08,2,55600000,network_hosting,closed
+Greenwood Village,TrenStar,01-01-01,04-06-07,04-06-07,1,10000000,software,acquired
+Seattle,World Blender,01-01-10,11-01-10,11-01-10,1,12000,games_video,closed
+College Park,Zymetis,01-01-06,01-11-10,1/31/2010,2,2257464,biotech,closed
+New York,Dispatch,05-01-11,07-01-11,11-10-11,2,983000,messaging,acquired
+Los Angeles,HauteLook,12-01-07,05-12-09,06-03-10,2,41000000,fashion,acquired
+Addison,Semantra,01-01-03,09-01-06,7/22/2008,3,9100000,software,closed
+Napa,Inertia Beverage Group,10/22/2004,04-02-07,01-01-12,3,25500100,software,closed
+San Francisco,Sponge,01-01-10,4/19/2010,4/19/2010,1,400000,web,acquired
+New York,Genesis Networks,01-01-02,9/26/2006,05-06-10,10,22165091,network_hosting,acquired
+San Francisco,Mogad,06-01-07,08-01-07,08-01-07,1,500000,network_hosting,acquired
+Mountain View,Meebo,02-01-05,10-01-05,12/20/2010,5,70000000,web,acquired
+Itasca,Accertify,03-01-07,06-03-08,05-04-10,2,4700000,security,acquired
+Cambridge,N2N Commerce,01-01-06,01-03-08,01-03-08,1,30000000,ecommerce,acquired
+Lexington,StreamBase Systems,01-01-03,1/24/2005,5/18/2012,5,39000000,software,acquired
+Santa Clara,Provigent,01-01-00,06-07-06,12/29/2008,3,32000000,semiconductor,acquired
+Waltham,Navic Networks,01-03-00,2/14/2000,2/26/2001,3,42000000,advertising,acquired
+Irvine,Integrien,01-01-01,5/16/2005,05-11-10,3,24510540,enterprise,acquired
+Palo Alto,Generic Media,01-01-00,8/26/2005,8/26/2005,1,2500000,software,closed
+Tampa,Persystent Technologies,01-01-02,08-08-05,12-03-09,3,21460663,software,acquired
+New York,WireImage,01-01-01,05-08-06,05-08-06,1,15000000,games_video,acquired
+San Francisco,Hello Chair,01-01-06,06-01-07,04-12-10,2,889999,mobile,closed
+Foster City,Encentuate,01-01-01,3/22/2005,3/22/2005,1,16000000,software,acquired
+San Francisco,Consorte Media,07-01-05,12-01-07,12-01-07,1,7000000,web,acquired
+New York,Triples Media,06-01-10,03-01-11,03-01-11,2,100000,advertising,closed
+New York,RightsFlow,10-01-07,8/26/2009,8/26/2009,1,1500000,music,acquired
+Seattle,thePlatform,01-01-00,01-12-06,01-12-06,1,8000000,web,acquired
+Santa Monica,Docstoc,08-01-07,11-01-07,4/28/2008,2,4000000,web,acquired
+San Francisco,TwtBks,6/20/2009,6/26/2009,6/26/2009,1,25000,web,closed
+Redwood City,Zenprise,01-01-03,06-06-05,01-01-12,6,64630000,mobile,acquired
+San Mateo,Picateers,01-01-05,01-01-06,8/25/2008,2,12100000,web,closed
+San Francisco,Vontu,01-01-01,3/21/2005,08-11-06,2,20000000,software,acquired
+Austin,NextIO,01-01-03,01-11-05,5/17/2012,4,49600000,hardware,closed
+Calabasas,Emergent Game Technologies,01-01-00,07-05-07,12-10-09,5,51450000,games_video,acquired
+San Francisco,threadsy,06-01-08,3/27/2008,12-07-10,2,6300000,messaging,acquired
+New York,Sonar.me,01-01-10,01-01-12,01-01-12,1,200000,mobile,closed
+Cincinnati,StyleZen,09-01-11,09-01-11,09-01-11,1,20000,fashion,closed
+North Reading,Kiva Systems,01-01-03,01-01-03,5/24/2006,2,11600000,hardware,acquired
+Mountain View,Krillion,05-01-06,6/14/2006,6/14/2006,1,9150000,web,acquired
+Cincinnati,Transactiv,07-01-09,10/13/2009,10/13/2009,1,1200000,advertising,closed
+Los Angeles,nprogress,02-01-10,12-01-11,12-01-11,1,1700000,social,closed
+Burlingame,Brightkite,01-01-07,08-01-07,07-06-09,3,1415000,social,acquired
+San Francisco,Peanut Labs,01-01-05,02-01-06,2/19/2008,2,4200000,enterprise,acquired
+Boston,FlipKey,01-01-07,12-01-07,8/20/2008,2,500000,web,acquired
+Richardson,AppTrigger,01-01-02,12/13/2007,12/13/2007,1,21500000,public_relations,acquired
+Lindon,Footnote,06-01-06,6/16/2006,01-01-08,2,10000000,web,acquired
+Los Angeles,NextMedium,01-01-04,02-01-05,7/24/2006,2,9500000,software,closed
+Albuquerque,iosil Energy,01-01-07,12/24/2009,3/17/2012,2,13875001,cleantech,closed
+Red Bank,Kurani Interactive,01-01-00,11/25/2010,11/25/2010,1,275000,software,closed
+Palo Alto,Kapow Software,01-01-05,02-01-05,1/13/2010,3,19743770,software,acquired
+Boston,Locately,07-01-08,08-01-10,07-07-12,5,1178000,software,acquired
+Palo Alto,TrustedID,01-01-05,10-01-05,10/18/2007,3,25000000,security,acquired
+Bethlehem,Ciclon Semiconductor Device Corporation,01-01-04,08-02-05,03-07-07,3,24150000,semiconductor,acquired
+Sunnyvale,Azingo,01-01-05,10-01-06,7/18/2008,2,80000000,mobile,closed
+Santa Clara,Vudu,01-01-04,06-01-05,4/29/2007,2,36000000,hardware,acquired
+Saint Louis,"ITOG, Inc.",9/19/2006,02-11-08,02-11-08,1,205000,network_hosting,closed
+Sunnyvale,Plaxo,11/17/2002,11-01-02,02-01-07,4,28300000,web,acquired
+Palo Alto,Sharetivity,07-07-07,05-01-06,05-01-06,1,2000000,web,closed
+San Bruno,YouTube,02-01-05,11-01-05,04-01-06,2,11500000,games_video,acquired
+New York City,Hashable,01-01-10,11/22/2010,11/22/2010,1,4000000,mobile,closed
+New York,MyNines,08-01-09,4/19/2010,4/19/2010,1,500000,ecommerce,closed
+Austin,itzbig,06-01-06,2/27/2007,2/27/2007,1,4000000,search,closed
+Brooklyn,Loosecubes,01-01-10,01-01-10,06-05-12,2,9030000,web,closed
+Philadelphia,Avid Radiopharmaceuticals,01-01-05,1/25/2005,5/21/2009,4,69900000,biotech,acquired
+Los Angeles,Contur,09-01-11,05-01-12,05-01-12,1,20000,messaging,closed
+Indianapolis,ExactTarget,12-01-00,7/21/2004,10/24/2012,7,238209999,software,acquired
+Burlington,Rhythmia Medical,01-01-04,02-06-07,9/24/2010,3,14700000,medical,acquired
+Palo Alto,MyMiniLife,01-01-07,11/15/2006,11/15/2007,3,430000,games_video,acquired
+San Mateo,Adept Cloud,06-01-11,10-01-12,11-01-12,2,1015000,enterprise,acquired
+Menlo Park,Factery,04-01-09,09-10-09,09-10-09,1,1200000,web,closed
+New Hope,"MeetMe, Inc.",04-01-05,1/29/2007,7/29/2008,2,17100000,web,acquired
+Englewood,WildBlue,01-01-04,09-03-08,09-03-08,1,50000000,web,acquired
+Los Angeles,HeadCase Humanufacturing,01-01-06,8/28/2006,8/28/2006,1,900000,software,closed
+San Mateo,bluepulse,04-10-90,04-01-07,04-01-07,1,6000000,network_hosting,closed
+New York,Mr. Youth,01-01-02,10-01-02,02-01-09,2,15100000,advertising,acquired
+Petaluma,Teknovus,01-01-01,01-01-02,11/16/2009,5,62600000,semiconductor,acquired
+Redwood City,Qik,06-01-06,04-09-08,01-06-11,4,14800000,mobile,acquired
+North Hollywood,EQAL,04-01-08,4/16/2008,5/23/2011,2,6875000,web,acquired
+Waco,IonLogix Systems,12-11-07,10/24/2008,10/24/2008,1,30000,software,closed
+Santa Clara,Atrica,01-01-00,04-05-06,04-05-06,1,22200000,public_relations,closed
+Boulder,Socialthing,5/18/2007,08-01-07,10/23/2007,2,415000,network_hosting,acquired
+New York,Next New Networks,03-01-07,01-01-07,12/29/2010,4,27063781,web,acquired
+Carpinteria,AdECN,01-01-03,02-01-06,02-01-06,1,3100000,advertising,acquired
+Menlo Park,Cuil,01-01-05,03-01-07,4/15/2008,2,33000000,search,closed
+Mountain View,Sensory Networks,01-01-03,10-10-05,01-01-08,3,17400000,web,acquired
+Menlo Park,Flock,01-01-05,01-01-05,5/21/2008,5,28300000,web,acquired
+Mountain View,AdMob,12-01-06,09-01-06,1/29/2009,4,46800000,advertising,acquired
+Chicago,FeeFighters,01-01-09,05-01-10,01-12-11,3,1525000,ecommerce,acquired
+New York City,WeHostels,11/15/2011,3/18/2012,3/18/2012,1,1200000,travel,acquired
+Mountain View,TimeBridge,05-01-05,07-05-05,05-11-09,3,12400000,web,acquired
+West Chester,Lazarus Therapeutics,01-01-06,08-02-10,08-02-10,1,100000,biotech,closed
+San Francisco,Loyalty Lab,01-01-03,3/22/2005,4/29/2010,3,11000000,software,acquired
+Nashville,RentStuff.com,01-01-10,05-05-11,04-12-12,2,675000,web,acquired
+Sunnyvale,ZManda,01-01-05,01-01-05,5/22/2007,2,13000000,software,acquired
+New York,Jumo,02-01-10,11-01-10,11-01-10,1,3500000,social,acquired
+Bedford,Sionex,01-01-01,12-07-05,12-07-05,1,12000000,hardware,closed
+Belmont,sezmi,01-01-07,08-01-07,11-07-11,5,78573646,games_video,acquired
+Nashville,StudioNow,01-01-07,6/15/2007,1/29/2013,3,15286415,photo_video,acquired
+San Francisco,PicApp,01-01-08,9/17/2008,9/17/2008,1,3200000,web,acquired
+Puyallup,Million Dollar Earth,03-01-11,03-07-11,03-07-11,1,30000,advertising,closed
+San Mateo,Composite Software,01-01-02,01-01-02,10/24/2012,3,14650003,software,acquired
+San Francisco,Terracotta,01-01-03,2/27/2006,09-01-08,2,23500000,software,acquired
+Boxborough,FireStar Software,01-01-01,01-03-06,01-03-06,1,980000,software,closed
+Sunnyvale,Aquest Systems,01-01-04,2/26/2007,2/26/2007,1,20000000,hardware,closed
+Seattle,Faves,12-01-04,01-01-04,01-01-04,1,1500000,web,closed
+Santa Monica,Generate,01-01-04,03-04-08,7/14/2009,2,8000000,games_video,acquired
+San Mateo,Attributor,10-01-05,1/28/2006,06-10-10,4,25200000,software,acquired
+San Mateo,Greenplum Software,06-01-03,03-01-06,01-01-08,4,61000000,software,acquired
+Santa Clara,PlaySpan,05-01-06,09-01-07,8/19/2010,4,46300000,games_video,acquired
+Chevy Chase,JackBe,01-01-02,01-10-06,04-08-10,4,24500000,software,acquired
+San Mateo,D2C Games,01-01-06,12/27/2006,8/29/2007,2,7500000,games_video,closed
+Palo Alto,Zimbra,01-01-03,04-01-06,04-01-06,1,14500000,enterprise,acquired
+Bellevue,Smith & Tinker,01-01-07,8/25/2009,8/25/2009,1,29000000,games_video,closed
+Sunnyvale,Mu Dynamics,01-01-05,01-01-05,5/19/2008,3,24000000,network_hosting,acquired
+Calabasas,Fulcrum Microsystems,01-01-00,05-09-05,3/15/2010,4,81017493,semiconductor,acquired
+San Francisco,ReTel Technologies,10-01-07,08-06-09,12-02-09,2,1000000,analytics,acquired
+Louisville,NexGen Storage,01-01-10,02-07-11,11/15/2011,2,12010000,software,acquired
+Woburn,WAY Systems,01-01-02,10-03-05,10-03-05,1,22000000,mobile,acquired
+Menlo Park,Roxro Pharma,01-01-99,06-12-07,06-12-07,1,42700000,biotech,closed
+Menlo Park,Intelliden,01-01-00,12/21/2005,5/22/2007,3,80000000,software,acquired
+Campbell,Forrst,1/25/2010,3/24/2011,3/24/2011,1,205000,web,acquired
+New York,XGraph,10-01-08,07-07-10,07-07-10,1,3750000,analytics,acquired
+Palo Alto,Color Labs Inc.,08-01-10,08-01-10,3/23/2011,2,41000000,other,closed
+Palo Alto,Playdom,02-01-08,11-11-09,6/21/2010,2,76000000,games_video,acquired
+Boxborough,Digital Reef,01-01-06,01-01-06,10-01-08,2,20000000,enterprise,acquired
+San Francisco,Servio,4/30/2009,8/13/2010,03-06-13,2,9356180,analytics,acquired
+New York,Advaliant,4/16/2013,04-01-04,04-01-04,1,100000,advertising,closed
+Atlanta,Vocalocity,01-01-07,1/28/2009,8/29/2011,2,13600000,software,acquired
+San Francisco,Dapper,10-01-06,12-01-07,12-01-07,1,3000000,advertising,acquired
+San Francisco,SeeSaw Networks,01-01-05,11/16/2006,6/23/2011,5,21138876,advertising,closed
+Cambridge,oneforty,3/31/2009,06-10-09,01-11-10,4,2345000,enterprise,acquired
+San Mateo,Smalltown,1/15/2005,11-01-05,11-01-05,1,4000000,web,closed
+Mountain View,Skyrider,01-01-03,10/23/2006,03-05-08,2,17000000,software,closed
+New York,SkillSlate,01-01-09,10/20/2010,10/20/2010,1,1100000,web,acquired
+Lexington,AwesomeTouch,7/26/2010,4/30/2010,06-01-11,4,59700,software,acquired
+Menlo Park,Syncplicity,11-03-08,10/31/2008,10/31/2008,1,2350000,enterprise,acquired
+Chantilly,Fortisphere,01-01-06,11/19/2007,11/19/2007,1,10000000,software,closed
+Palo Alto,PlayerDuel,01-01-11,09-05-11,6/13/2012,2,21189,mobile,closed
+Waltham,Aveksa,01-01-04,6/14/2006,2/25/2009,3,28000000,software,acquired
+Santa Clara,PANTA Systems,01-01-02,05-01-05,05-01-05,1,9500000,software,closed
+Santa Clara,Beceem Communications,10-01-03,6/30/2005,4/22/2009,3,69600000,semiconductor,acquired
+McLean,Trust Digital,03-01-03,11-04-05,7/29/2009,3,23500000,mobile,acquired
+Lake Oswego,Sabrix,01-01-02,6/21/2006,6/21/2006,1,13000000,software,acquired
+New York,Panther Express,01-01-05,7/25/2006,2/27/2008,2,21750000,games_video,acquired
+Allentown,T-Networks,01-01-00,2/28/2005,2/28/2005,1,5750000,public_relations,closed
+Tewksbury,BlueNote Networks,01-01-05,9/26/2005,03-06-06,2,23400000,software,acquired
+Redwood City,Predictify,03-01-07,3/25/2008,3/25/2008,1,4300000,advertising,closed
+Austin,BreakingPoint Systems,8/28/2005,11-12-07,4/22/2010,2,20000000,security,acquired
+Santa Clara,OptiMedica,01-01-04,3/26/2008,05-10-13,2,51000000,biotech,acquired
+Dedham,Metatomix,01-01-00,09-08-03,2/17/2010,4,27101994,enterprise,acquired
+Cupertino,Neterion,01-01-01,2/24/2006,2/24/2006,1,6480000,public_relations,acquired
+Sunnyvale,Schooner Information Technology,05-01-07,10-01-07,7/24/2009,2,35000000,enterprise,acquired
+Boston,Swaptree Inc.,01-01-10,07-01-06,5/25/2010,3,11300000,web,closed
+Lawrenceville,Nalace Corporation,01-01-12,4/19/2012,4/19/2012,1,19000,ecommerce,closed
+Jersey City,Quidsi,01-01-05,09-01-06,4/20/2010,6,78500000,ecommerce,acquired
+NYC,spotdock,11/15/2011,01-10-12,01-10-12,1,600000,web,closed
+Annapolis,Netcordia,01-01-00,6/28/2005,7/31/2006,2,13000000,network_hosting,acquired
+Mountain View,SearchMe,07-01-05,07-01-05,05-01-08,5,43600000,search,closed
+San Francisco,Yammer,09-10-08,1/19/2009,2/29/2012,5,142000000,enterprise,acquired
+Mountain View,Clever Sense,04-11-08,6/17/2010,08-01-11,2,2000000,web,acquired
+Austin,AlterPoint,01-01-01,01-01-03,1/17/2005,3,26800000,software,acquired
+San Jose,Shocking Technologies,01-01-06,4/17/2007,5/21/2012,6,55900000,hardware,closed
+Mountain View,Ribbit,2/23/2005,10-01-06,12/17/2007,2,11000000,mobile,acquired
+Santa Clara,StorSimple,01-01-09,06-01-09,6/23/2011,3,31500000,enterprise,acquired
+Washington,NationalField,06-12-09,10/30/2012,10/30/2012,1,1500000,enterprise,acquired
+New York,Tripl,5/17/2011,5/20/2011,07-09-12,3,900000,social,closed
+Campbell,Sadra Medical,01-01-03,6/17/2004,5/22/2009,3,58000000,biotech,acquired
+Burlington,expressor software,01-01-07,07-01-07,12/19/2011,4,29050000,software,acquired
+Las Vegas,NSFW Corporation,01-01-11,10-05-11,6/14/2013,2,250000,news,acquired
+Santa Clara,Azaire Networks,01-01-03,8/25/2006,8/25/2006,1,21000000,software,closed
+New York,Quigo,01-01-00,03-01-04,06-07-07,2,35000000,advertising,acquired
+San Francisco,Weatherista,8/16/2010,8/15/2010,8/15/2010,1,500000,web,closed
+Richardson,Navini Networks,01-01-00,08-10-05,6/21/2006,2,30920000,public_relations,acquired
+Sunnyvale,VirtualLogix,01-01-02,01-01-04,01-12-10,4,29288979,software,acquired
+Andover,Exit41,01-01-99,02-04-07,05-12-11,4,24200000,software,closed
+Los Altos,SezWho,10-01-06,10-01-07,10-01-07,1,1000000,web,acquired
+Minnetonka,Jobs2Web,01-01-03,01-01-04,1/21/2006,2,5550000,web,acquired
+Mountain View,HighlightCam,7/27/2009,06-01-09,11/29/2011,2,3000000,mobile,closed
+Mountain View,MerchantCircle,10-01-05,06-05-06,09-01-07,2,14300000,web,acquired
+San Diego,Helicomm,01-01-02,3/21/2006,3/21/2006,1,1000000,network_hosting,closed
+Mountain View,Kace networks,01-01-03,7/25/2005,5/22/2006,2,11000000,software,acquired
+New York,Thwapr,01-01-07,01-01-09,01-01-10,2,2000000,photo_video,closed
+San Francisco,Zinch,02-01-07,12-01-07,10/20/2009,2,5000000,web,acquired
+Cupertino,Cloud.com,01-01-08,01-01-10,01-01-10,1,11000000,enterprise,acquired
+Redwood City,"Wildfire, a division of Google",07-01-08,12-01-08,12-01-11,4,14100000,enterprise,acquired
+Los Angeles,Authenticlick,08-05-05,02-01-06,02-01-06,1,5000000,search,closed
+Vancouver,Idooble,01-01-09,01-01-09,08-01-10,2,400000,web,closed
+South San Francisco,BioSeek,01-01-00,5/23/2007,5/23/2007,1,10000000,biotech,acquired
+Waltham,xkoto,01-01-05,11-01-05,1/26/2009,3,11035000,software,closed
+Lexington,Coradiant,01-01-00,8/22/2005,8/22/2005,1,12700000,public_relations,acquired
+Pleasanton,QuantaLife,01-01-08,12/13/2010,7/22/2011,2,20757182,biotech,acquired
+Santa Clara,BroadLight,06-01-00,11/17/2005,09-11-07,3,27000000,software,acquired
+New York,BBE,04-01-04,01-01-08,01-01-08,1,10000000,advertising,acquired
+El Segundo,TelASIC Communications,01-01-01,3/22/2005,3/22/2005,1,26000000,public_relations,closed
+Farmington,LegiTime Technologies,01-01-05,03-01-07,12/15/2009,2,4000000,messaging,closed
+Sunnyvale,Mobius Microsystems,01-01-04,1/31/2006,12-10-07,2,20220000,hardware,acquired
+New York,Boonty,03-01-01,07-07-05,07-07-05,1,10000000,games_video,acquired
+New York,B-Side Entertainment,04-07-05,10-11-06,11/14/2008,2,7350000,games_video,closed
+San Jose,Taggstr,07-01-09,04-07-10,04-07-10,1,50000,messaging,closed
+New York,Fashism,01-01-09,11/19/2010,11/19/2010,1,1000000,fashion,closed
+Mountain View,Goodmail Systems,01-01-03,10/17/2005,01-12-09,4,45000000,security,closed
+San Diego,Nirvanix,07-01-07,9/18/2007,05-03-12,5,70000000,enterprise,closed
+Seattle,LookStat,01-01-08,4/23/2009,4/23/2009,1,500000,ecommerce,closed
+San Francisco,Sweepery,08-01-08,09-01-08,12-01-09,2,500000,software,closed
+Austin,Luminary Micro,01-01-04,02-01-05,8/23/2007,3,44000000,semiconductor,acquired
+Englewood,ZettaCore,01-01-99,05-11-09,05-11-09,1,21000000,semiconductor,closed
+Los Angeles,Clicker,01-01-09,9/15/2009,2/18/2010,2,19000000,games_video,acquired
+Menlo Park,iKoa,01-01-06,06-05-07,7/16/2010,3,18700000,semiconductor,closed
+San Bruno,SocialShield,09-01-09,10-05-10,10-05-10,1,10000000,software,acquired
+Tampa,LeisureLogix,08-01-06,01-01-07,01-01-07,3,5900000,software,closed
+Marlborough,Storwize,01-01-04,06-06-07,04-02-08,2,28000000,other,acquired
+Nashua,AutoVirt,01-01-07,01-01-07,5/24/2011,7,24300000,software,closed
+Mountain View,Loopt,01-01-05,06-01-05,05-03-10,4,32006000,mobile,acquired
+Cupertino,Blue Lane Technologies,01-01-02,02-01-05,02-01-05,1,13400000,public_relations,acquired
+San Francisco,Socialcast,06-01-05,04-06-09,3/31/2010,3,9400000,enterprise,acquired
+Boulder,Collective Intellect,01-01-05,02-01-06,12-07-12,6,15324624,enterprise,acquired
+Seattle,Wavii,03-01-09,07-01-10,07-01-10,1,2000000,web,acquired
+San Francisco,Seesmic,06-01-07,11-01-07,02-01-11,3,16000000,web,acquired
+Saint Paul,Apnex Medical,01-01-06,12-02-09,9/24/2012,3,44000000,medical,closed
+Philadelphia,MobileReactor,01-01-10,10/24/2011,6/15/2012,2,1175000,software,closed
+Pleasanton,Echopass Corporation,01-01-00,10/30/2006,04-07-10,2,9000000,network_hosting,acquired
+San Diego,ID Analytics,01-01-02,05-01-02,5/16/2007,3,35150000,web,acquired
+Burlington,Vela Systems,01-01-05,05-01-06,09-02-10,3,12000000,software,acquired
+Sunnnyvale,FlowCardia,01-01-02,8/30/2007,8/30/2007,1,30000000,biotech,acquired
+San Mateo,Bizanga,01-01-03,2/17/2009,2/17/2009,1,8000000,security,acquired
+San Francisco,Transpond,01-01-07,02-04-09,02-04-09,1,4100000,advertising,acquired
+Champaign,Caterva,01-01-08,12/15/2009,07-06-11,2,2408500,social,closed
+Santa Clara,Innovative Silicon,01-01-02,03-01-04,11-06-07,4,72000000,other,closed
+Golden Valley,Kardia Health Systems,01-01-06,01-01-07,01-01-08,2,18400000,enterprise,closed
+Pittsboro,Biolex Therapeutics,01-01-97,01-07-05,12/19/2011,7,162264126,biotech,closed
+Cambridge,Foldrx Pharmaceuticals,01-01-03,6/15/2010,6/15/2010,1,29000000,biotech,acquired
+Seattle,Klir Technologies,01-01-00,06-03-05,06-03-05,1,8700000,network_hosting,closed
+Cambridge,MetaCarta,01-01-01,09-08-05,09-08-05,1,10000000,mobile,acquired
+Burlington,Viridity Software,01-01-08,12-01-08,8/19/2010,2,15000000,software,acquired
+Menlo Park,Devtap,01-01-08,09-01-08,09-01-08,1,2600000,search,closed
+San Francisco,Bebo,01-06-05,05-01-06,05-01-06,1,15000000,web,acquired
+New York,SideTour,06-01-11,07-01-11,3/25/2013,3,4000000,web,acquired
+Brisbane,SARcode Bioscience,01-01-06,12-01-06,7/18/2011,2,73000000,biotech,acquired
+New York,Lore,03-01-11,6/27/2011,04-05-12,4,12123837,education,acquired
+Seattle,Pelago,12-01-05,11-01-06,5/27/2008,3,22400000,mobile,acquired
+San Francisco,Desk,01-01-09,4/15/2010,01-04-11,2,5700000,enterprise,acquired
+Menlo Park,Trinity Biosystems,01-01-02,7/18/2006,11-09-09,2,28500000,biotech,closed
+Westford,Virtual Computer,01-01-07,12-01-07,1/26/2009,2,21000000,software,acquired
+Raleigh,Oasys Mobile,01-01-84,11/18/2005,11/18/2005,1,8000000,software,closed
+Menlo Park,Gamook,01-01-08,3/16/2008,3/16/2008,1,1500000,games_video,closed
+Waltham,Quattro Wireless,10-01-06,05-01-07,3/17/2009,3,28300000,advertising,acquired
+Palo Alto,ShopWell,01-01-08,2/22/2010,12/20/2012,5,7939553,web,acquired
+San Francisco,NewsBasis,01-01-09,11-01-09,11-01-09,1,545000,public_relations,closed
+Billerica,Nexx Systems,01-01-01,9/29/2005,12/14/2009,3,15247925,semiconductor,acquired
+NY,5min Media,01-01-07,04-01-07,7/23/2009,3,12800000,games_video,acquired
+Chicago,MyCabbage,03-01-10,3/24/2011,8/23/2012,2,950000,mobile,closed
+Woburn,Gotuit,01-01-00,12-01-02,12-01-04,2,16000000,web,acquired
+Campbell,TeleCIS Wireless,01-01-00,01-01-06,01-01-06,1,10000000,semiconductor,acquired
+New York,Snapette,01-01-11,10-12-11,10-12-11,1,1500000,fashion,acquired
+San Francisco,EmSense,01-01-04,11-03-09,12-10-10,2,13000000,hardware,closed
+Brooklyn,MakerBot,01-01-09,8/23/2011,8/23/2011,1,10000000,hardware,acquired
+New York,Image Space Media,01-01-08,1/19/2010,12/30/2010,2,3915000,advertising,acquired
+Brooklyn,Wanderfly,08-01-09,08-01-09,02-01-11,2,1400000,travel,acquired
+Chicago,walkby,08-01-12,08-01-12,04-10-13,2,650000,ecommerce,closed
+Austin,FameCast,01-01-07,06-01-07,3/30/2010,3,9700000,games_video,closed
+San Jose,Cassatt,01-01-03,03-01-06,03-01-06,1,15000000,software,acquired
+Emeryville,VirtuOz,01-01-02,10-10-05,04-01-12,4,38764000,enterprise,acquired
+San Jose,SolFocus,11-01-05,03-01-06,04-01-12,8,211403000,cleantech,closed
+Mountain View,Nimbula,01-01-08,6/23/2010,8/23/2010,2,20750000,enterprise,acquired
+San Francisco,Giftiki,06-01-09,8/31/2010,4/20/2011,2,1020000,social,acquired
+Austin,Storspeed,01-01-07,06-07-07,06-07-07,1,13000000,software,closed
+New York,SpaBooker,11-01-07,01-01-08,10-01-11,2,14700000,software,acquired
+Mountain View,Jajah,01-01-05,03-01-06,03-01-09,4,33000000,mobile,acquired
+San Jose,Baxano,01-01-05,6/23/2010,6/23/2010,1,30000000,medical,acquired
+Richardson,RipCode,08-06-06,11-01-06,05-11-10,4,33000000,software,closed
+Washington,VeteranCentral.com,12/15/2011,6/15/2011,6/15/2011,1,150000,social,closed
+Waltham,RippleFunction,03-01-10,05-01-10,05-01-10,1,20000,advertising,closed
+Fremont,CV Ingenuity,01-01-08,10-04-11,1/24/2013,3,30926154,medical,closed
+Campbell,AdexLink,8/16/2010,06-10-11,06-10-11,1,2000000,advertising,closed
+Burlington,Certeon,01-01-03,7/16/2007,05-01-12,2,19000000,software,closed
+San Francisco,Applied Identity,01-01-02,1/13/2005,10-01-08,3,33000000,advertising,closed
+Atlanta,Prenova,01-01-02,05-10-06,4/24/2008,3,15650000,cleantech,acquired
+San Francisco,WooMe,12-01-00,04-01-07,06-12-08,3,17400000,web,acquired
+Hollywood,HelpMeRent.com,10-01-10,08-01-11,08-01-11,1,154000,real_estate,closed
+Los Angeles,Mail.com Media Corporation,01-01-04,10/21/2008,10/21/2008,1,35000000,web,closed
+Viena,DubMeNow,01-01-08,08-01-08,06-05-12,4,7516703,mobile,closed
+Austin,Smooth-Stone,01-01-08,8/16/2010,8/16/2010,1,48000000,cleantech,closed
+Campbell,ONStor,01-01-00,06-02-05,4/18/2008,3,65800000,network_hosting,acquired
+Hillsborough,Relationship Analytics,08-01-12,04-05-13,5/16/2013,2,125000,analytics,closed
+Potomac Falls,Summize,11-01-06,06-01-07,06-01-07,1,750000,search,acquired
+Atlanta,JouleX,01-01-09,06-10-11,06-10-11,1,17000000,enterprise,acquired
+San Mateo,Etelos,05-01-99,9/30/2009,5/29/2012,3,4087500,enterprise,closed
+Santa Barbara,Make It Work,01-01-95,11/15/2005,11/15/2005,1,1000000,hardware,closed
+Austin,MapMyFitness,02-08-07,01-01-07,6/19/2013,5,23500000,health,acquired
+San Francisco,What They Like,8/29/2007,8/29/2007,8/29/2007,1,990000,web,closed
+Tempe,FetchBack,04-01-07,01-01-08,01-01-08,1,1000000,advertising,acquired
+Cambridge,Sermo,01-01-06,09-01-06,2/17/2011,4,41000000,health,acquired
+Tualatin,Wi-Chi,01-01-08,5/15/2008,5/15/2008,1,7000000,semiconductor,closed
+Cambridge,Alnara Pharmaceuticals,01-01-08,10/30/2008,1/28/2010,2,55000000,biotech,acquired
+Chicago,Braintree,10-01-07,6/29/2011,9/17/2012,2,69000000,software,acquired
+Milpitas,Virident Systems,01-01-06,05-01-07,1/28/2013,8,129677153,enterprise,acquired
+Redwood City,Pearl Therapeutics,01-01-06,07-03-08,04-01-13,6,232000100,biotech,acquired
+Mountain View,Lexity,08-01-09,09-01-09,03-03-11,2,5700000,enterprise,acquired
+Framingham,Diligent Technologies,01-01-02,8/21/2007,8/21/2007,1,10500000,security,acquired
+Rye Brook,eBillme,10-01-04,9/20/2006,09-01-08,2,23000000,ecommerce,closed
+Redmond,Smilebox,8/28/2000,02-01-06,2/23/2010,3,14000000,photo_video,acquired
+San Mateo,B-hive Networks,01-01-05,8/25/2006,8/25/2006,2,7500000,software,acquired
+Brooklyn,Hot Potato,01-01-09,11/25/2009,11/25/2009,1,1420000,social,acquired
+Seattle,Kashless,09-01-08,10/29/2008,02-04-11,2,9000000,ecommerce,closed
+Yardley,Three Screen Games,01-01-09,10-07-09,10-07-09,1,500000,games_video,closed
+Mountain View,LaunchGram,01-10-12,1/23/2012,10-01-12,2,70000,news,acquired
+Carlsbad,BrightQube,10-01-06,05-01-07,5/27/2008,2,850000,ecommerce,closed
+Santa Monica,ServiceMesh,01-01-08,11/16/2011,11/16/2011,1,15000000,enterprise,acquired
+San Francisco,Lookery,08-01-07,02-07-08,09-04-08,2,3150000,web,acquired
+San Francisco,Wantful,01-01-11,3/20/2012,3/20/2012,1,5500000,ecommerce,closed
+San Rafael,Zep Solar,01-01-09,11/20/2013,11/20/2013,1,10571182,cleantech,acquired
+Hollywood,Help Me Rent Magazine,01-01-10,08-01-10,08-01-10,1,500000,real_estate,closed
+Berkeley,MOG,06-01-05,05-04-06,2/26/2010,7,24900000,music,acquired
+Pasadena,Loud3r,09-01-07,06-05-09,12/28/2009,2,3529175,web,closed
+New York,Oyster.com,03-01-08,03-01-08,10-11-12,4,23400000,travel,acquired
+San Jose,LogLogic,01-01-02,5/26/2009,5/26/2009,1,8800000,security,acquired
+New York,StyleTrek,02-01-10,02-01-10,02-01-10,1,1500000,fashion,closed
+San Diego,Sequoia Communications,01-01-00,11-09-04,06-02-09,7,74000000,semiconductor,closed
+Portland,SnapNames,01-01-00,06-01-01,12/31/2001,3,8800000,network_hosting,acquired
+San Francisco,Simple Star,01-01-01,08-01-03,08-10-05,2,7100000,web,acquired
+Cambridge,StyleFeeder,05-03-06,09-01-07,05-01-09,3,3500000,ecommerce,acquired
+Sunnyvale,FlashSoft,11/25/2009,6/28/2011,6/28/2011,1,3000000,software,acquired
+Kenmore,TrustDegrees,03-01-11,4/17/2011,06-09-11,2,11000,web,closed
+Laguna Niguel,Symwave,01-01-01,7/18/2007,08-06-09,3,26200000,semiconductor,acquired
+Mountain View,Clearwell Systems,12-06-04,04-04-06,8/22/2007,2,29000000,software,acquired
+Mountain View,Impeva,01-01-04,11-03-08,11-03-08,1,10000000,software,closed
+La Jolla,Nettle,10-04-10,08-11-11,08-11-11,1,500000,web,closed
+Redwood City,CubeTree,01-01-08,02-01-08,11-02-09,3,11500000,enterprise,acquired
+Austin,Infochimps,7/14/2009,9/14/2010,06-04-13,5,5350000,enterprise,acquired
+San Francisco,Songbird,02-01-06,10-02-06,1/27/2010,3,11015719,mobile,closed
+San Francisco,SimpleGeo,05-01-09,11-10-09,5/18/2010,3,9807367,advertising,acquired
+San Francisco,1000memories,07-01-10,01-01-10,2/16/2011,2,2535000,web,acquired
+Addison,SensorLogic,01-01-02,6/19/2007,12/13/2010,3,19000000,enterprise,acquired
+Mountain View,TouristEye,02-01-10,02-01-10,11-06-12,3,475000,travel,acquired
+New York,Oberon Media,01-01-03,10-06-08,11-10-10,2,36000000,games_video,acquired
+Pleasanton,Arroyo Video Solutions,01-01-02,03-02-05,03-02-05,1,12000000,games_video,acquired
+San Diego,Aragon Pharmaceuticals,01-01-09,5/27/2009,10-04-12,4,122000000,biotech,acquired
+New York,#waywire,06-01-12,6/30/2012,6/30/2012,1,1750000,news,acquired
+New York,Feedtrace,08-10-09,03-01-10,03-01-10,1,130000,web,acquired
+Cleveland,Five Star Technologies,01-01-99,11/30/2006,11/24/2009,3,13222860,other,closed
+Indianapolis,Vontoo,01-01-05,2/17/2009,2/24/2011,2,2192000,public_relations,closed
+Cambridge,Allurent,01-01-05,2/22/2010,2/22/2010,1,2000000,web,acquired
+Emeryville,Quantivo,01-01-05,01-09-08,12/16/2009,2,9400000,analytics,acquired
+Mountain View,Crossing Automation,01-01-03,05-05-08,3/23/2010,4,13045000,semiconductor,acquired
+San Francisco,Scrapblog,01-01-06,03-06-06,02-05-10,4,10000000,web,acquired
+San Mateo,Yield Software,01-01-07,06-04-08,06-04-08,1,6000000,advertising,acquired
+Lancaster,FlyCast,01-01-06,01-01-08,7/22/2009,2,2100000,mobile,closed
+Seattle,Off & Away,12-01-09,05-03-10,10/21/2010,2,3250000,travel,acquired
+San Jose,CypherMax,01-01-00,7/27/2006,2/25/2007,3,148000000,hardware,closed
+Thousand Oaks,Nexsan,01-01-00,12-01-03,4/18/2009,2,24500000,hardware,acquired
+Provo,Tipping Bucket,04-08-09,04-01-09,03-01-10,2,72000,enterprise,closed
+Palo Alto,Qlusters,01-01-01,08-08-07,08-08-07,1,10360000,other,closed
+New York,Producteev,07-08-08,7/15/2008,02-01-10,3,1310000,software,acquired
+New York,SpinTheCam,02-12-10,01-01-10,01-01-10,1,150000,games_video,closed
+Los Gatos,Amalfi Semiconductor,01-01-03,02-01-06,4/24/2012,3,64000000,semiconductor,acquired
+Columbus,Dormzy,05-01-10,05-01-10,05-01-10,1,250000,ecommerce,closed
+Pasadena,iChange,01-01-08,10-01-07,02-01-10,3,1830000,health,acquired
+Portland,AppFog,08-01-10,01-01-11,08-10-11,2,9800000,enterprise,acquired
+San Francisco,HotPads,05-04-05,03-01-07,03-01-07,1,2300000,web,acquired
+Redmond,Sampa,03-01-05,08-01-07,04-02-08,2,1310000,web,closed
+San Francisco,DanceJam,04-01-07,05-01-07,02-01-08,2,4500000,games_video,closed
+Foster City,Right90,01-01-03,2/28/2005,9/23/2008,3,22000000,software,acquired
+San Francisco,SocialMedia.com,01-01-07,09-01-07,1/29/2009,3,10000000,advertising,acquired
+New York,BuyWithMe,03-01-09,1/20/2010,06-01-11,4,36500000,ecommerce,acquired
+Denver,Photobucket,06-01-03,03-01-05,5/14/2013,7,33672656,web,acquired
+Cupertino,XtremIO,01-01-09,11-11-09,12-05-11,3,19000000,enterprise,acquired
+Sunnyvale,Level 5 Networks,01-01-02,6/20/2005,6/20/2005,1,30000000,semiconductor,acquired
+Mountain View,Votizen,3/19/2009,9/23/2010,2/24/2012,2,2250000,web,acquired
+Arcadia,Siimpel Corporation,01-01-00,11-11-05,12/16/2009,6,53818873,hardware,acquired
+San Mateo,TalkPlus,02-01-04,10-01-06,10-01-06,1,5500000,web,closed
+Bellevue,Napera Networks,12-01-06,11/29/2008,11/29/2008,1,6000000,network_hosting,acquired
+Redwood City,NebuAd,01-01-06,07-01-07,09-01-07,2,30150000,advertising,closed
+Brisbane,Tercica,01-01-02,10/14/2005,07-06-07,2,83000000,biotech,acquired
+New York,Robotgalaxy,01-01-06,01-01-07,9/16/2008,2,12000000,games_video,closed
+Sunnyvale,PasswordBank,01-01-08,03-01-08,07-01-09,2,3500000,software,acquired
+Palo Alto,SnapTell,01-01-06,06-07-07,06-07-07,1,4000000,software,acquired
+Yorba Linda,Gigi Hill,01-01-09,6/15/2011,08-08-12,2,4000000,manufacturing,closed
+Sunnyvale,CloudShield Technologies,01-01-00,10/28/2005,9/17/2007,2,25000000,software,acquired
+New York,Instinctiv,08-01-07,06-01-08,05-05-11,3,1420698,mobile,acquired
+Campbell,Anchor Bay Technologies,10-01-01,5/16/2003,1/29/2007,2,10000000,semiconductor,acquired
+Palo Alto,Waze,01-01-07,03-01-08,10/18/2011,3,67000000,transportation,acquired
+San Carlos,Aster Data Systems,07-01-05,11-01-05,9/22/2010,4,53000000,analytics,acquired
+Los Angeles,Diversion,05-01-10,10/18/2010,7/22/2011,2,300000,games_video,closed
+Palo Alto,Codesion,01-01-02,09-01-07,07-01-10,3,1400000,software,acquired
+San Francisco,Xoopit,01-01-04,12-01-06,04-02-08,2,6500000,web,acquired
+San Francisco,One Block Off the Grid (1BOG),11-01-08,02-11-10,02-11-10,1,5000000,cleantech,acquired
+Seattle,Appature,01-01-07,12-07-09,7/13/2012,2,9600000,enterprise,acquired
+Bellevue,Action Engine,02-01-00,05-01-00,07-01-07,5,58200000,mobile,acquired
+Acton,Blackwave,01-01-06,12-01-06,9/30/2009,3,28000000,network_hosting,acquired
+Dallas,SoftLayer,01-01-05,9/30/2009,3/25/2010,2,30000000,network_hosting,acquired
+Palo Alto,Mytopia,01-01-07,01-01-08,03-01-09,2,3500000,games_video,acquired
+Newton,JackPot Rewards,01-01-08,02-01-08,02-01-08,1,16700000,web,closed
+Tempe,Andigilog,01-01-96,2/20/2007,2/20/2007,1,18000000,semiconductor,closed
+Sunnyvale,BARRX Medical,01-01-03,7/14/2010,7/14/2010,1,15000000,medical,acquired
+Santa Clara,Power Analog Microelectronics,01-01-04,12-01-07,12-01-07,2,12000000,hardware,closed
+Toledo,Classiphix,9/19/2009,01-01-11,01-01-11,1,15000,ecommerce,closed
+Seattle,StartupDigest,11/16/2009,03-09-11,03-09-11,1,200000,news,acquired
+Carlsbad,WiLinx,01-01-03,01-10-07,01-10-07,1,15000000,semiconductor,closed
+San Francisco,Cohuman,10-09-09,09-09-09,01-01-11,2,1400000,enterprise,acquired
+New York,Correlix,01-01-06,2/19/2005,2/14/2012,4,11400000,enterprise,closed
+Fremont,Redwood Systems,01-01-08,10-03-08,5/30/2012,4,34250000,cleantech,acquired
+Austin,OtherInbox,01-01-08,01-01-08,9/20/2010,4,3800000,messaging,acquired
+San Mateo,M-Factor,01-01-03,6/14/2007,02-10-09,2,10100000,software,acquired
+Santa Clara,Athena Design Systems,01-01-03,1/29/2007,1/29/2007,1,4000000,software,closed
+San Mateo,Servo Software,01-01-08,12/15/2009,12/15/2009,1,3011408,software,acquired
+San Mateo,Levanta,01-01-98,9/23/2007,9/23/2007,1,8000000,software,closed
+San Mateo,EdgeSpring,07-01-10,07-01-10,5/17/2013,2,12700000,analytics,acquired
+Torrance,DotSpots,09-01-07,09-01-07,09-01-07,1,300000,public_relations,closed
+San Francisco,about.me,02-05-13,02-05-13,02-05-13,1,5675000,web,acquired
+Santa Monica,Republic Project,08-01-08,09-01-12,09-01-12,1,1000000,advertising,acquired
+Altamonte Springs,Hit Systems,09-01-08,09-01-08,09-01-08,1,125000,enterprise,closed
+Westport,Yamisee,01-01-10,3/24/2010,12/15/2010,2,700000,web,closed
+Seattle,Thinkfuse,08-01-10,11-01-10,3/24/2011,2,532000,enterprise,acquired
+Palo Alto,EchoSign,7/15/2005,10-01-05,10-01-07,2,8500000,web,acquired
+Seattle,PI Corporation,01-01-03,7/27/2006,7/27/2006,1,9400000,network_hosting,acquired
+Providence,"MoveableCode, Inc.",01-01-10,01-01-09,04-01-12,2,350000,mobile,closed
+New York,Daylife,04-01-06,06-01-07,6/16/2009,2,12300000,enterprise,acquired
+Chelmsford,Desktone,01-01-06,7/30/2007,12/16/2011,5,25413298,network_hosting,acquired
+San Francisco,Pulse,05-01-10,10-06-10,6/16/2011,2,9800000,news,acquired
+San Francisco,Opzi,05-01-10,01-01-10,09-01-10,2,1015000,games_video,closed
+Boulder,Standing Cloud,01-01-09,01-01-09,6/21/2012,5,10000003,enterprise,acquired
+Chicago,Where I've Been,06-08-07,3/15/2008,4/15/2010,2,1750000,travel,acquired
+San Francisco,HipChat,09-01-09,08-10-10,08-10-10,1,100000,messaging,acquired
+Palo Alto,ScaleIO,01-01-11,12-04-12,12-04-12,1,12000000,software,acquired
+New York,GroupMe,05-01-10,8/25/2010,01-04-11,2,11450000,messaging,acquired
+San Francisco,WeAre.Us,12-01-07,08-01-08,08-01-08,1,50000,advertising,closed
+Santa Clara,Kickfire,01-01-06,7/31/2008,7/31/2008,1,20000000,software,closed
+Austin,"LifeSize, a Division of Logitech",01-01-03,12/19/2005,9/18/2006,2,42500000,public_relations,acquired
+"El Segundo,",CHiL Semiconductor,01-01-06,01-01-06,05-07-08,3,22487000,semiconductor,acquired
+San Mateo,Aptana,01-01-07,7/14/2009,7/14/2009,1,7800000,software,acquired
+Hampton,Enpirion,01-01-01,12/21/2004,3/31/2011,4,59000000,semiconductor,acquired
+Idaho Falls,RFinity,10-01-08,02-01-11,02-01-11,1,4000000,mobile,closed
+San Diego,ecoATM,08-02-08,2/17/2010,02-06-13,4,71400000,cleantech,acquired
+San Francisco,Adura Technologies,01-01-08,10/16/2008,4/26/2012,3,25500000,cleantech,acquired
+Mountain View,Rhythm NewMedia,01-01-05,11-10-10,09-11-12,4,28932322,advertising,acquired
+San Francisco,Topsy Labs,1/15/2007,01-01-08,10-01-12,6,35200000,analytics,acquired
+Burlington,Digit Wireless,01-01-00,3/14/2005,02-11-08,2,10000000,public_relations,closed
+Menlo Park,Silver Tail Systems,01-08-08,9/26/2008,9/22/2011,3,22100000,analytics,acquired
+Acton,Tatara Systems,01-01-01,1/20/2004,6/22/2010,5,33000000,mobile,acquired
+Mountain View,Reliant Technologies,01-01-01,4/19/2007,4/19/2007,1,15000000,biotech,acquired
+Campbell,Atrua Technologies,01-01-00,12-07-06,2/25/2009,3,13000000,mobile,acquired
+Campbell,Casabi,01-01-04,12/19/2005,03-12-07,2,12800000,mobile,acquired
+New York,Peek & Co,11-01-07,01-01-08,08-12-11,2,626096,mobile,closed
+Cambridge,Bluefin Labs,06-01-08,04-01-08,1/24/2012,4,20350000,analytics,acquired
+San Jose,C2 Microsystems,01-01-04,10-12-09,10-12-09,1,10000000,hardware,closed
+Palo Alto,GoPollGo,01-01-11,7/27/2011,7/27/2011,1,425000,web,acquired
+Scotts Valley,Multigig,01-01-03,05-12-08,12/22/2010,3,37891054,semiconductor,acquired
+La Jolla,Ortiva Wireless,01-01-04,02-01-05,10-04-11,5,40000000,mobile,acquired
+El Segundo,Sometrics,09-01-07,5/14/2008,10/16/2009,3,5550000,games_video,acquired
+San Francisco,Kima Labs,01-01-10,08-01-10,08-01-10,1,770000,mobile,acquired
+Addison,Chronicity,09-01-06,10-10-06,5/26/2011,4,19550000,consulting,closed
+San Francisco,Whiskey Media,10-01-07,3/24/2009,12/31/2009,2,4000000,web,acquired
+McLean,Jobfox,03-01-04,04-01-05,12/24/2009,4,42000000,web,acquired
+Avon,Natural Cleaners Colorado,01-01-05,8/27/2008,8/27/2008,1,1900000,other,closed
+Aliso Viejo,Gaikai,11-01-08,01-05-10,7/20/2011,3,45039999,games_video,acquired
+San Francisco,Blue Buzz Network,01-01-06,7/13/2010,7/13/2010,1,1310000,news,closed
+Portland,Max-Viz,01-01-01,01-01-08,01-01-08,1,3000000,hardware,acquired
+Sunnyvale,Cotendo,01-01-08,01-01-08,6/15/2011,4,36000000,software,acquired
+Palo Alto,Particle Code,05-01-10,6/30/2010,6/30/2010,1,3000000,software,acquired
+San Francisco,Flowgram,06-01-07,1/31/2008,1/31/2008,1,1300000,web,closed
+Little Rock,JavaJobs,01-01-97,10-01-06,10-01-06,1,50000,software,closed
+New York,Behance,02-01-06,5/14/2012,5/14/2012,1,6500000,web,acquired
+Cambridge,Locu,01-01-11,09-07-11,4/23/2012,2,4600000,advertising,acquired
+Waltham,dynaTrace software,01-01-05,2/15/2007,01-07-11,3,21900000,software,acquired
+New York,Socialbomb,06-05-08,12-01-08,12-01-08,1,240000,games_video,acquired
+San Diego,Imagine Communications,01-01-05,01-01-05,4/20/2010,4,34700000,software,acquired
+Lisle,Univa UD,05-10-04,08-01-05,3/23/2010,4,33000000,software,acquired
+New York,Tutorspree,09-01-10,12/20/2011,2/18/2013,2,1800000,education,closed
+Boulder,OneRiot,01-01-06,01-01-06,8/27/2009,3,27300000,advertising,acquired
+Palo Alto,Moonshoot,01-01-07,2/18/2010,04-01-12,2,6760000,web,closed
+Cupertino,ArcSight,01-01-00,01-01-00,6/30/2006,3,26914000,software,acquired
+Santa Clara,AGEIA Technologies,01-01-02,10-03-05,10-03-05,1,27500000,semiconductor,acquired
+Houston,U.S. Fiduciary,01-01-03,04-12-07,04-12-07,1,9000000,other,closed
+San Jose,Broadway Networks,01-01-06,1/13/2010,1/13/2010,1,954000,public_relations,closed
+Santa Clara,Xelerated,01-01-00,4/20/2005,8/14/2008,3,53000000,semiconductor,acquired
+San Mateo,Oodle,01-01-04,05-01-06,09-03-10,4,23100000,social,acquired
+San Francisco,The Climate Corporation,01-01-06,01-01-07,6/14/2012,4,108900000,cleantech,acquired
+Mountain View,Kosmix,01-01-05,11-01-05,12-08-08,4,55000000,web,acquired
+New York,Xtify Inc.,04-01-09,05-01-10,02-07-12,2,5686383,mobile,acquired
+South San Francisco,Limerick BioPharma,01-01-04,06-11-08,1/30/2012,6,49008830,biotech,closed
+San Francisco,iSkoot,4/22/2005,11/29/2006,11-07-08,3,32200000,mobile,acquired
+Houston,Rudder,10-01-06,1/15/2008,1/15/2008,1,2000000,web,closed
+New York,Panvidea,01-01-07,3/19/2010,3/19/2010,1,2700000,games_video,acquired
+Middleton,Sway,12-03-04,1/19/2010,1/19/2010,1,2000000,advertising,closed
+New York,TRAFFIQ,09-06-06,09-06-06,08-10-10,3,18000000,advertising,acquired
+Bothell,Dexterra,01-01-00,8/17/2005,10-02-08,5,122500000,mobile,acquired
+San Francisco,CoTweet,01-01-09,07-09-09,07-09-09,1,1100000,advertising,acquired
+Burlington,Reef Point Systems,01-01-98,04-01-05,3/23/2007,3,52000000,security,closed
+Sunnyvale,Paracor Medical,01-01-99,6/29/2007,6/29/2007,1,44000000,biotech,closed
+San Francisco,Causata,01-01-09,10-05-09,11-01-11,2,15500000,software,acquired
+Santa Clara,Asempra Technologies,01-01-03,2/13/2006,2/13/2006,1,20000000,security,acquired
